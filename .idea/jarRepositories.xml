@@ -56,5 +56,10 @@
       <option name="name" value="maven7" />
       <option name="url" value="https://ci-artifactory.corda.r3cev.com/artifactory/corda-lib-dev" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenLocal2" />
+      <option name="name" value="MavenLocal2" />
+      <option name="url" value="file:/G:/DevRelated/repository/" />
+    </remote-repository>
   </component>
 </project>
